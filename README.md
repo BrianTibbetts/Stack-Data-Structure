@@ -1,5 +1,7 @@
 # Stack-Data-Structure
-A stack implemented in C#. Resources used:
+A stack implemented in C#.
+
+Resources used:
 
 C# type system tutorial: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
 
