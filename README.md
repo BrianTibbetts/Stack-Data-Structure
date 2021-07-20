@@ -1,5 +1,5 @@
 # Stack-Data-Structure
-A stack implemented in C#.
+A stack implemented in C#
 
 
 Resources used include:
