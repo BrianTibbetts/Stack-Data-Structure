@@ -1,6 +1,9 @@
 ﻿/**
  * SinglyLinkedList
  * A singly linked list is collection of nodes ordered head to tail.
+ * 
+ * Unlike arrays, singly linked lists have no fixed capacity limit set when the object is created.
+ * The memory used by a singly linked list is proportional to the number of elements in the list.
  */
 using System;
 
