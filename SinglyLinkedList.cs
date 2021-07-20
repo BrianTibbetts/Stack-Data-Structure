@@ -50,7 +50,7 @@ namespace StackDataStructure
         // update functions
         public void AddFirst(T t)       // adds element t to the front of the list
         {
-            head = new Node(t, null);
+            head = new Node(t, head);
             if (IsEmpty())
                 tail = head;            // special case: previously empty list
             size++;

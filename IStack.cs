@@ -1,5 +1,6 @@
 ﻿/**
- * IStack - Stack functions to be implemented
+ * IStack
+ * Stack functions to be implemented
  */
 
 using System;
